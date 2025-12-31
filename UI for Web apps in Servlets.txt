@@ -1,0 +1,25 @@
+User interface in web applications
+==================================
+answer
+------
+1. user interface is a top layer in enterprise applications.
+2. user interface layer will provide a starting point to the users in order to interact with web applications.
+3. user interface is able to take data from users and it is able to submit data to the server side applications in order to perform the respective server side action.
+4. user interface is able to provide a very good environment to define data validations logics in the form of java script functions in order to perform client side data validations.
+5. user interface is able to improve look and feel to the web applications.
+
+1. information user interface.
+=============================
+this user interface is not taking data from users, it is able to get data from server side application and it is able to display data to the users.
+ex: displaying status of the server side actions like LoginSuccess, LoginFailure, User added successfully.
+
+2. form based user interface.
+============================
+this user interface includes forms to collect data from the users and to submit that data to the server side applications
+
+in web applications to prepare from we will use basic html tags.
+
+Request Parameters.
+-------------------
+request parameters are the name value pairs which are submitted by the user to the server side applications through the user forms at client browser.
+Strig getParameter (String name).
